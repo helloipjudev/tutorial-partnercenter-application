@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '다양항 환경에서도 지원',
+    title: '다양한 환경에서도 지원',
     Svg: require('@site/static/img/main3.svg').default,
     description: (
       <>
