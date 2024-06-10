@@ -1,5 +1,5 @@
 # 파트너센터 튜토리얼
-[파트너센터 튜토리얼 사이트](https://web-tutorial-partnercenter-application-pn2llx42pwdt.sel5.cloudtype.app/)
+[파트너센터 튜토리얼 사이트](https://tutorial-partnercenter-application.vercel.app/)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
