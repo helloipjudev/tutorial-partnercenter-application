@@ -78,7 +78,7 @@ const config = {
             title: "튜토리얼",
             items: [
               {
-                label: "파트너센터 앱 튜토리얼",
+                label: "파트너센터 앱/웹 튜토리얼",
                 to: "/docs/intro",
               },
             ],
@@ -97,6 +97,10 @@ const config = {
               {
                 label: "파트너 센터 앱 다운로드 링크",
                 href: "https://play.google.com/store/apps/details?id=kr.co.helloipju.partners&hl=ko",
+              },
+              {
+                label: "파트너 센터 웹 페이지",
+                href: "https://partners.helloipju.co.kr",
               },
             ],
           },
