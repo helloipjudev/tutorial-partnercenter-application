@@ -36,3 +36,11 @@
     width: 100%;
   }
 }
+
+.webDocsImage {
+  width: 600px;
+
+  @media (max-width: 800px) {
+    width: 100%;
+  }
+}
