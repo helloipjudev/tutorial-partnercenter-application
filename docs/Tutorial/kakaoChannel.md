@@ -12,7 +12,7 @@ sidebar_position: 9
 
 <p align='center'>
     <img
-    src={require('./img/kakao.png').default}
+    src={require('./img/homeview_helpdesk.png').default}
     className='docsImage'
     />
 </p>
