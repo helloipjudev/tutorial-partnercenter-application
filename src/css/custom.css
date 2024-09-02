@@ -44,3 +44,15 @@
     width: 100%;
   }
 }
+
+.webDocsVideo {
+  width: 100%;
+  max-width: 600px;
+
+  @media (max-width: 800px) {
+    .webDocsVideo {
+      width: 100%;
+    }
+  }
+}
+
