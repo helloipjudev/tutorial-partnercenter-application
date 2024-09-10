@@ -8,7 +8,7 @@ sidebar_position: 8
 
 <p align='center'>
     <img
-    src={require('./img/mypage.png').default}
+    src={require('./img/myPage.png').default}
     className='docsImage'
     />
 </p>
