@@ -1,0 +1,9 @@
+{
+  "label": "고객 결제 진행 참고영상",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "링크페이를 통한 결제 진행 과정 영상입니다."
+  }
+}
+
