@@ -29,8 +29,13 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+.section {
+  margin-top: 50px;
+}
+
 .docsImage {
   width: 400px;
+  border: 2px solid #000;
 
   @media (max-width: 500px) {
     width: 100%;
