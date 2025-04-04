@@ -68,7 +68,7 @@ sidebar_position: 1
 </table>
 
 
-## 쿠폰 선택
+## 사용가능 쿠폰 확인
 - 등록된 쿠폰은 결제 진행 시 자동 적용 됩니다. 
 <span style={{color: 'red'}}>※ 앱 다운로드 쿠폰과 함께 사용할 수 없습니다.</span>
 
